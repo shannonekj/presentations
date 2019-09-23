@@ -1,0 +1,20 @@
++ hostname
+++ date +%s
++ start=1569271377
++ echo 'My SLURM_JOB_ID: 14189586'
++ THREADS=8
++ echo 'Threads: 8'
++ script_dir=/home/sejoslin/git_repos/presentations/2019_AFS/scripts
++ lineage=/home/sejoslin/BUSCO_lineages/actinopterygii_odb9
++ data_dir=/group/millermrgrp2/shannon/projects/presentations/data
++ out_dir=/group/millermrgrp2/shannon/projects/presentations/data/assembly_reports/RAD_DS_history
++ coverage=RAD
++ asm=DS_history
++ prefix=Hypomesus-transpacificus
++ assembly=/home/sejoslin/projects/DS_history/data/paralog_id/DS_history_contigs_250.fasta
++ mkdir -p /group/millermrgrp2/shannon/projects/presentations/data/assembly_reports/RAD_DS_history
++ bash /home/sejoslin/git_repos/presentations/2019_AFS/scripts/BUSCO.sh RAD Hypomesus-transpacificus DS_history /home/sejoslin/projects/DS_history/data/paralog_id/DS_history_contigs_250.fasta /group/millermrgrp2/shannon/projects/presentations/data/assembly_reports/RAD_DS_history /home/sejoslin/BUSCO_lineages/actinopterygii_odb9
+++ date +%s
++ end=1569273595
++ runtime=2218
++ echo Runtime: 2218
