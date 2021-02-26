@@ -1,0 +1,20 @@
+Mandi
+* Slide 2: capitalize effective
+* instead of "what else we're going to do with genome" state "future project that will be using the genome assembly"
+* sequencing takes the manual and shreds it up and then gives you pieces back
+* what is medium scale? perhaps state RAD gives you sequences from locations throughout the genome
+* RAD sequencing what of 2628 individuals from 1993-2018...I think... maybe 2019
+
+Shannon
+* delete blue line in RAD seq example
+
+Ensi
+* what are founder alleles? can you use a different/more basic term?
+* microsatellit is a complex word––can you simplify
+* slide 2 figure legend larger
+* maybe state C=captive, W=wild
+* point arrows from green (wild) and blue (captive) fish to the orange fish
+* first Fst graph the title of the slide should say "high DI" not "hi DI"
+* try to say "genomic locations" not "genomic loci"
+* i'd get rid of Chromosome 26 figure
+
